@@ -1,4 +1,4 @@
- nmodule Library where
+module Library where
 import PdePreludat
 
 data Gimnasta = Gimnasta {
